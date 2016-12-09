@@ -22,7 +22,7 @@ if __name__ == "__main__":
 
 
     # capturando o conjunto de estados
-    conjunto_estados = raw_input('Digite os estados:').split(',')
+    conjunto_estados = raw_input('Digite o conjunto de estados:').split(',')
 
 
     # capturando o alfabeto
