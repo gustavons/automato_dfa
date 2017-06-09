@@ -1,6 +1,8 @@
 
 
+Gustavo Nogueira de Sousa
 README
+
 
 
 Para que este programas seja executado deve ser seguindo as seguintes orientações:
